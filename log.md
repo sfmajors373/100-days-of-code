@@ -3,11 +3,11 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Queue, Linked List and beginning of Hash Table in JS
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Lambda School University, pair programming and learning as much as I can.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [LS-Data Structures I](https://github.com/sfmajors373/LS-Data-Structures), [Coding Challenge](https://github.com/sfmajors373/CS1-Code-Challenges)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
