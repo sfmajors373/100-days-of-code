@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: July 11, 2017 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Queue, Linked List and beginning of Hash Table in JS
@@ -9,14 +9,14 @@
 
 **Link to work:** [LS-Data Structures I](https://github.com/sfmajors373/LS-Data-Structures), [Coding Challenge](https://github.com/sfmajors373/CS1-Code-Challenges)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: July 12, 2017 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Hash table, and for today's morning code challenge to change case from lower to upper/upper to lower.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I didn't quite finish the hash table before reviewing the solutions, however I did get the function to stop passing back undefined.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [LS-Data Structures I](https://github.com/sfmajors373/LS-Data-Structures), [Coding Challenge](https://github.com/sfmajors373/CS1-Code-Challenges)
 
 
 ### Day 1: June 27, Monday
