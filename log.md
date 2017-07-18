@@ -34,3 +34,21 @@
 
 **Links to work**
 [LS-Data Structures II] (https://github.com/sfmajors373/LS-Data-Structures-II), [Coding Challenge] (https://github.com/sfmajors373/CS1-Code-Challenges)
+
+### Day 4: July 15, 2017 Saturday
+**Today's Progress**:  Not much progress.  Worked on algorithm for even occurences in an array.
+**Thoughts**: Still struggling to break problems down small enough to not allow room for confusion.
+**Links to work** 
+[Coding Challenge] (https://github.com/sfmajors373/CS1-Code-Challenges)
+
+### Day 5: July 16, 2017 Sunday
+**Today's Progress**: Worked on binary search tree and a method for graphs that removes edges.
+**Thoughts**:  I still have a long way to go.
+**Links to work** 
+[LS-Data Structures II] (https://github.com/sfmajors373/LS-Data-Structures-II)
+
+### Day 6: July 17, 2017 Monday
+**Today's Progress**: Worked on redoing the graph remove edges, but made little progress.  Began an assignment on the DOM utilizing mainly HTML and CSS.
+**Thoughts**: Feeling very lost in the HTML stuff.
+**Links to work**
+[LS-DOM](https://github.com/sfmajors373/LS-DOM)
