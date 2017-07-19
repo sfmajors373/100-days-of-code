@@ -52,3 +52,9 @@
 **Thoughts**: Feeling very lost in the HTML stuff.
 **Links to work**
 [LS-DOM](https://github.com/sfmajors373/LS-DOM)
+
+### Day 7: July 18, 2017 Tuesday
+**Today's Progress**: Continued replicating the Lambda School website using only HTML and CSS.
+**Thoughts**:  One week into 100 days.  Yay!  And happy birthday me.
+**Links to work**
+[LS-DOM](https://github.com/sfmajors373/LS-DOM)
