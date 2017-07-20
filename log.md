@@ -58,3 +58,9 @@
 **Thoughts**:  One week into 100 days.  Yay!  And happy birthday me.
 **Links to work**
 [LS-DOM](https://github.com/sfmajors373/LS-DOM)
+
+### Day 8: July 19, 2017 Wednesday
+**Today's Progress**: Worked on filling out the block architecture that I set up for the Lambda School website replica.
+**Thoughts**:  My replica looks very vaguely like the Lambda School site.  It has the spirit of it but none of the details.  For having used HTML and CSS so little, I am not entirely ashamed of my progress on the project.  Tomorrow starts a new project and I look forward to that.
+**Links to work**
+[LS-DOM](https://github.com/sfmajors373/LS-DOM)

@@ -13,6 +13,7 @@
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+2. [How to be a Compiler](https://kosamari.com/presentation/jsconfcolombia-2016/#0)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
