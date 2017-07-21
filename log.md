@@ -64,3 +64,9 @@
 **Thoughts**:  My replica looks very vaguely like the Lambda School site.  It has the spirit of it but none of the details.  For having used HTML and CSS so little, I am not entirely ashamed of my progress on the project.  Tomorrow starts a new project and I look forward to that.
 **Links to work**
 [LS-DOM](https://github.com/sfmajors373/LS-DOM)
+
+### Day 9: July 20, 2017 Thursday
+**Today's Progress**: Beginning of a To Do App with React.
+**Thoughts**:  A little overwhelmed by the number of ways to represent an idea in React.  I spent most of the day reading up on React, syntax, structure, etc.
+**Links to work**
+[LS-React-1](https://github.com/sfmajors373/LS-React-1)
