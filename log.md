@@ -70,3 +70,19 @@
 **Thoughts**:  A little overwhelmed by the number of ways to represent an idea in React.  I spent most of the day reading up on React, syntax, structure, etc.
 **Links to work**
 [LS-React-1](https://github.com/sfmajors373/LS-React-1)
+
+### Day 10: July 21, 2017 Friday
+**Today's Progress**:  Continue work on To Do App in React.
+**Thoughts**: Debugging this is a nightmare.
+**Links to work**
+[LS-React-1](https://github.com/sfmajors373/LS-React-1)
+
+### Day 11: July 23, 2017 Sunday
+**Today's Progress**: Worked on replicating an array class, but trying to understand outside the framework of JavaScript and at a level closer to the metal, including memory management.
+**Thoughts**: Making an attempt to adjust my thinking to be broader than thinking within the language so that I can understand what the computer is actually doing.
+
+### Day 12, July 24, 2017 Monday
+**Today's Progress**:  Beginning a new project with React which tries to recreate a page on Instagram.
+**Thoughts**:  Looking forward to a new project in React.  The to do list  got rather messy because my thought process just wasn't aligned with React in the beginning and I am hoping that I learned enough in the last project to make this one go a bit better.
+**Links to work**
+[LS-React-II](https://github.com/sfmajors373/LS-React-II)
