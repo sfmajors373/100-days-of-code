@@ -86,3 +86,9 @@
 **Thoughts**:  Looking forward to a new project in React.  The to do list  got rather messy because my thought process just wasn't aligned with React in the beginning and I am hoping that I learned enough in the last project to make this one go a bit better.
 **Links to work**
 [LS-React-II](https://github.com/sfmajors373/LS-React-II)
+
+### Day 13: July 25, 2017 Tuesday
+**Today's Progress**: Working towards adding the functionality of the Instagram and appropriately managing state.
+**Thoughts**: Seeing the objects being created by the props in the console of the browser helped to understand what passing props is doing.  That doesn't mean that I am not having problems passing the props correctly anymore because I definitely am, but it was good to see.
+**Links to work**
+[LS-React-II](https://github.com/sfmajors373/LS-React-II)
