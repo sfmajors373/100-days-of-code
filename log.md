@@ -92,3 +92,15 @@
 **Thoughts**: Seeing the objects being created by the props in the console of the browser helped to understand what passing props is doing.  That doesn't mean that I am not having problems passing the props correctly anymore because I definitely am, but it was good to see.
 **Links to work**
 [LS-React-II](https://github.com/sfmajors373/LS-React-II)
+
+###Day 14: July 26, 2017 Wednesday
+**Today's Progress**: Attained minimum required functionality prior to turning in the project.
+**Thoughts**: My partner brought in the TA to help us debug the final bug in our project just before we turned it in.  The pair programming and TA help worked really well on this project.  I felt badly not having contributed more to the functionality of the app, but I am struggling to come to understand the framework.
+**Links to work**
+[LS-React-II](https://github.com/sfmajors373/LS-React-II)
+
+###Day 15: July 27, 2017 Thursday
+**Today's Progress**: The new project is attempting to build a todo list app but this time utilize both React and Redux.  I set up the majority of the app, but utilized the redux tutorial in order to help conceptualize how to set up and structure the app.
+**Thoughts**: I thought I would understand better by using the tutorial for help structuring the components, reducers, actions, etc.  But I still have a bug that I don't understand how to get rid of so I may just throw this out and start over.  Feeling very frustrated by layering a framework over a framework that I don't understand.
+**Links to work**
+[LS-Redux](https://github.com/sfmajors373/LS-Redux)
