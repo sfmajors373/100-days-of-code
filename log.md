@@ -104,3 +104,10 @@
 **Thoughts**: I thought I would understand better by using the tutorial for help structuring the components, reducers, actions, etc.  But I still have a bug that I don't understand how to get rid of so I may just throw this out and start over.  Feeling very frustrated by layering a framework over a framework that I don't understand.
 **Links to work**
 [LS-Redux](https://github.com/sfmajors373/LS-Redux)
+
+###Day 16: July 28, 2017 Friday
+**Today's Progress**:  Continued work on the new To do list project, also made progress by adding a router to my Github Battle project - it looks nice might I add.  :)  Also setting out in search of other tutorials that utilize react and redux so that I can attempt to cement my understanding of these concepts before the next Lambda School project.
+**Thoughts**: I'm still feeling really lost, but I spent some time today in Code Sandbox with the Redux tutorial code - playing with it, breaking it, styling it...  I learned some, but I need more practice before I think I will be able to internalize all of this information.
+**Links to work**
+[LS-Redux](https://github.com/sfmajors373/LS-Redux)
+[Github Battle](https://github.com/sfmajors373/GithubBattleB.git)
