@@ -20,6 +20,7 @@
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 3. [Project Euler](https://projecteuler.net)
+4. [Untrusted](http://alexnisnevich.github.io/untrusted/): A game utilizing JavaScript
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
@@ -37,6 +38,9 @@
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
 4.  "Introduction to Computation and Programming Using Python" by John V. Guttag
+
+### JavaScript
+1.  [JavaScript Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)
 
 ## Contents
 * [Rules](rules.md)

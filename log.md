@@ -111,3 +111,9 @@
 **Links to work**
 [LS-Redux](https://github.com/sfmajors373/LS-Redux)
 [Github Battle](https://github.com/sfmajors373/GithubBattleB.git)
+
+###Day 17: Monday July 31, 2017
+**Today's Progress**: Assigned a new project utilizing React and Redux as before but also JS promises and AJAX requests.
+**Thoughts**: So far I am feeling alright with the project.  They gave a good overview of the architecture that needs to be in place in order to make this app, so hopefully that will be enough for me to pick up from there and add the functionality.
+**Links to work**
+[LS-AJAX](https://github.com/sfmajors373/LS-AJAX)
