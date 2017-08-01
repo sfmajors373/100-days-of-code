@@ -41,7 +41,7 @@
 
 ### JavaScript
 1.  [JavaScript Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)
-
+2.  [JavaScript Promises: Plain and Simple](https://coligo.io/javascript-promises-plain-simple/): Promises and HTTP requests
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
