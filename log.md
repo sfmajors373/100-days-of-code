@@ -117,3 +117,15 @@
 **Thoughts**: So far I am feeling alright with the project.  They gave a good overview of the architecture that needs to be in place in order to make this app, so hopefully that will be enough for me to pick up from there and add the functionality.
 **Links to work**
 [LS-AJAX](https://github.com/sfmajors373/LS-AJAX)
+
+###Day 18: Tuesday August 1, 2017
+**Today's Progress**: Worked on AJAX project.
+**Thoughts**: Still very confused about React/Redux, how to use axios, seems to be many steps and I am not sure about them.
+**Links to work**
+[LS-AJAX](https://github.com/sfmajors373/LS-AJAX)
+
+###Day 19: Wednesday, August 2, 2017
+**Today's Progress**: Figured out most of the AJAX request and turned in the project, but didn't quite have a working project.
+**Thoughts**: By working through the Q&A video from last night and implementing some of the code discussed there, I was able to iron out my AJAX requests, but was unable to map dispatch and state to props and didn't remember to use bindActions.  Still confusion related to redux mostly, I suppose.
+**Links to work**
+[LS-AJAX](https://github.com/sfmajors373/LS-AJAX)

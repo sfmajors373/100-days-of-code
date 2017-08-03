@@ -37,7 +37,9 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
-4.  "Introduction to Computation and Programming Using Python" by John V. Guttag
+4. "Introduction to Computation and Programming Using Python" by John V. Guttag
+5. [Init.js - Learning JavaScript one tipic at a time](https://initjs.org) by Michael Mitrakos - code challenges, interview questions, data structures, algorithms
+6. ["Implement All Permutations of a Set"](https://initjs.org/all-permutations-of-a-set-f1be174c79f8by) Michael Mitrakos 
 
 ### JavaScript
 1.  [JavaScript Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)
