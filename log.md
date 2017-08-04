@@ -129,3 +129,16 @@
 **Thoughts**: By working through the Q&A video from last night and implementing some of the code discussed there, I was able to iron out my AJAX requests, but was unable to map dispatch and state to props and didn't remember to use bindActions.  Still confusion related to redux mostly, I suppose.
 **Links to work**
 [LS-AJAX](https://github.com/sfmajors373/LS-AJAX)
+
+###Day 20: Thursday, August 3, 2017
+**Today's Progress**: Worked on the new project which is an app that uses React Router.  I have the majority of the structure down, and some of the links working.
+**Thoughts**: Some of the links work so that makes me excited.
+**Links to work**
+[LS-Routing-Movies](https://github.com/sfmajors373/LS-Routing-Movies)
+
+###Day 21: Friday, August 4, 2017
+**Today's Progress**: Finished both the routing project and an app that I have been slowly working on in my spare time, which was following a React fundamentals course by Tyler McGinnis.
+**Thoughts**: Turned out the problems with my non-functional links were all typos.  And two finished apps in one day - exciting!  Now to figure out what to work on next...
+**Links to work**
+[LS-Routing-Movies](https://github.com/sfmajors373/LS-Routing-Movies)
+[GithubBattle](https://github.com/sfmajors373/GithubBattleB)
