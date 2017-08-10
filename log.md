@@ -142,3 +142,23 @@
 **Links to work**
 [LS-Routing-Movies](https://github.com/sfmajors373/LS-Routing-Movies)
 [GithubBattle](https://github.com/sfmajors373/GithubBattleB)
+
+###Day 22: Monday, August 7, 2017
+**Today's Progress**: Received a new project for learning unit tests, TDD and BDD, using Mocha, Chai and Sinon.
+**Thoughts**: Glad for the break from React!
+**Links to work**
+[LS-Testing](https://github.com/sfmajors373/LS-Testing)
+
+###Day 23: Tuesday, August 8, 2017
+**Today's Progress**: Continued making tests for the project, worked mainly on making the base tests for each function to be tested.
+**Thoughts**: Enjoying the work.
+**Links to work**
+[LS-Testing](https://github.com/sfmajors373/LS-Testing)
+
+###Day 24: Wednesday, August 9, 2017
+**Today's Progress**: Finished as many of the tests as I could prior to turning in the project - mainly focusing on using sinon spy to monitor callbacks.  Also worked on the 'mini-lab' to learn node and express through making hangman to be played by making get and post requests.
+**Thoughts**:  Good stuff - not many thoughts today.  Enjoyed the mini-lab.
+**Links to work**
+[LS-Testing](https://github.com/sfmajors373/LS-Testing)
+
+
