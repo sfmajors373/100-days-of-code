@@ -161,4 +161,14 @@
 **Links to work**
 [LS-Testing](https://github.com/sfmajors373/LS-Testing)
 
+###Day 25: Thursday, August 10, 2017
+**Today's Progress**:  Working on the Node-express lab.  So far doing quite well.  Have the basic structure laid out for get, post, delete, put.
+**Thoughts**:  Enjoying not doing front end.
+**Links to work**
+[node-express-lab](https://github.com/sfmajors373/node-express-lab)
 
+###Day 26: Friday, August 11, 2017
+**Today's Progress**: Attempted to continue working on the node-express project but wasn't able to make forward progress.  
+**Thoughts**: Between issues with local host and postman, I was unable to figure out what my code was actually doing so was unable to figure out how to make the tests pass.
+**Links to lack of work**
+[node-express-lab](https://github.com/sfmajors373/node-express-lab)
