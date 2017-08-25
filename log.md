@@ -172,3 +172,33 @@
 **Thoughts**: Between issues with local host and postman, I was unable to figure out what my code was actually doing so was unable to figure out how to make the tests pass.
 **Links to lack of work**
 [node-express-lab](https://github.com/sfmajors373/node-express-lab)
+
+###Day 27: Monday, August 14, 2017
+**Links to work**
+[LS-Mongo-I](https://github.com/sfmajors373/LS-Mongo-I)
+
+###Day 28: Tuesday, August 15, 2017
+**Links to work**
+[LS-Mongo-I](https://github.com/sfmajors373/LS-Mongo-I)
+
+###Day 29: Wednesday, August 16, 2017
+**Links to work**
+[LS-Mongo-I](https://github.com/sfmajors373/LS-Mongo-I)
+
+###Day 30: Thursday, August 17, 2017
+**Links to work**
+[LS-Mongo-II](https://github.com/sfmajors373/LS-Mongo-II)
+
+###Day 31: Friday, August 18, 2017
+**Links to work**
+[LS-Mongo-II](https://github.com/sfmajors373/LS-Mongo-II)
+
+###Day 32: Wednesday, August 23, 2017
+**Links to work**
+[LS-Auth-Mini](https://github.com/sfmajors373/Auth-Mini)
+
+###Day 33: Thursday, August 23, 2017
+**Today's Progress**: Worked on hashing a user password using bcrypt and storing it in Mongodb.
+**Thoughts**: This took more time than I thought it would take because I kept fighting errors and initially started by having the hashing as a function within the Schema instead of placing the hashing in the server file.
+**Links to work**
+[LS-Auth](https://github.com/sfmajors373/Auth)
