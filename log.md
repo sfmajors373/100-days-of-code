@@ -202,3 +202,21 @@
 **Thoughts**: This took more time than I thought it would take because I kept fighting errors and initially started by having the hashing as a function within the Schema instead of placing the hashing in the server file.
 **Links to work**
 [LS-Auth](https://github.com/sfmajors373/Auth)
+
+###Day 34: Friday, August 24, 2017
+**Today's Progress**: Continued trying to use bcrypt in addition to creating a session to track a logged in user.
+**Thoughts**: Struggling to determine what the error is, changing the code just gives me more and varied errors.
+**Links to work**
+[LS-Auth](https://github.com/sfmajors373/Auth)
+
+##Day 35: Saturday, August 25, 2017
+**Today's Progress**: Configured my .vimrc file to adjust spacing, use autocmd to autoclose some braces/parens/brackets.
+**Thoughts**: Enjoyed writing in something not JavaScript for a bit even if it is only a very small amount of code and enjoyed that it is code that I will use and appreciate daily instead of a practice project that I won't utilize except for nostalgia.
+**Links to work**
+[vimrc](https://github.com/sfmajors373/vimrc)
+
+##Day 36: Monday, August 28, 2017
+**Today's Progress**: Our Lambda School project is any prject that we wish to do on our own, so there was a lot of pondering and debating.  Unless I change my mind, I intend to loosely base my project on a tutorial from scotch.io (link in github), in order to make an atari game repository.
+**Thoughts**: I debated creating a more difficult project that would be more useful to me or would allow me to explore new skills, but opted to begin with something small and quite similar to the projects we have been working on in order to cement my understanding of what we have done so far.  I feel like moving forward I would benefit more from creating a small project that has allowed me to find my insecurities and misunderstandings in the concepts that I should have learned than a project that I may not finish in time that has only frustrated me and I feel more lost than when I started.
+**Links to work**
+[Games](https://github.com/sfmajors373/Games)

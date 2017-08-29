@@ -24,6 +24,7 @@
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+2. [Practice Coding Interviews](https://www.pramp.com)
 
 ## Books (both coding and non-coding)
 
