@@ -220,3 +220,10 @@
 **Thoughts**: I debated creating a more difficult project that would be more useful to me or would allow me to explore new skills, but opted to begin with something small and quite similar to the projects we have been working on in order to cement my understanding of what we have done so far.  I feel like moving forward I would benefit more from creating a small project that has allowed me to find my insecurities and misunderstandings in the concepts that I should have learned than a project that I may not finish in time that has only frustrated me and I feel more lost than when I started.
 **Links to work**
 [Games](https://github.com/sfmajors373/Games)
+
+##Day 37: Tuesday, August 29, 2017
+**Today's Progress**: The API is semi-functional (it lists the list of all games twice and delete doesn't work), and finished the plain react version of the front end, though there are errors and it won't show in local host correctly.
+**Thoughts**: Two days isn't much time, back to work.
+**Links to work**
+[Games](https://github.com/sfmajors373/Games)
+[Games2 - started over](https://github.com/sfmajors/Games2)
