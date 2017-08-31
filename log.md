@@ -227,3 +227,10 @@
 **Links to work**
 [Games](https://github.com/sfmajors373/Games)
 [Games2 - started over](https://github.com/sfmajors/Games2)
+
+##Day 38: Wednesday, August 30, 2017
+**Today's Progress**: I finished the tutorial part 2.  I ended up relying on the tutorial rather heavily for the react and redux portion of the tutorial because it has been a while since I used it and needed a refresher.  I still have the same four errors that won't let me bring the app up on localhost, which is super disappointing.
+**Thoughts**" I am pretty disappointed that the app won't connect to localhost and that I didn't get to the third part of the tutorial which covers adding authorization, which I would still like to do.  Overall, I still intend to finish the app and attempt to configure it to my liking.
+**Links to work**
+[Games](https://github.com/sfmajors373/Games)
+[Games2 - started over](https://github.com/sfmajors/Games2)
