@@ -234,3 +234,9 @@
 **Links to work**
 [Games](https://github.com/sfmajors373/Games)
 [Games2 - started over](https://github.com/sfmajors/Games2)
+
+##Day 39: Thursday, August 31, 2017
+**Today's Progress**: Working on the Client Auth project.  Utilized React Form for the signup page, began working on a higher order function to check for required authorization that would render the user page if authorized, but that hasn't worked yet.
+**Thoughts**: Need to read up on cors and higher order functions.
+**Links to work**
+[Client-Auth](https://github.com/sfmajors373/Client-Auth)
