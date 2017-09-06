@@ -42,7 +42,11 @@
 5. [Init.js - Learning JavaScript one tipic at a time](https://initjs.org) by Michael Mitrakos - code challenges, interview questions, data structures, algorithms
 6. ["Implement All Permutations of a Set"](https://initjs.org/all-permutations-of-a-set-f1be174c79f8by) Michael Mitrakos 
 7. [CodingFreak](http://codingfreak.blogspot.com/p/data-structures.html)
-8. [The Pragmatic Programmer]http://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
+8. [The Pragmatic Programmer](http://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
+9. [Google Certs](https://developers.google.com/training/certification/)
+10. [Google Codelabs](https://codelabs.developers.google.com/)
+11. [Google Mobile Web Specialist Study Guide] (https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide-MobileWebSpecialist.pdf)
+12. [Google Data and Machine Learning] (https://cloud.google.com/training/data-ml)
 
 ### JavaScript
 1.  [JavaScript Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)

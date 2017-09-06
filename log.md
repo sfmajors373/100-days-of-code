@@ -299,3 +299,35 @@
 
 **Links to work**
 [Client-Auth](https://github.com/sfmajors373/Client-Auth)
+
+### Day 40: Friday, September 1, 2017
+**Today's Progress**: Continued to work on the Client Auth project.  Finished the required portions of the project, and began reading the code for the Extra Credit JWT portion.
+
+**Thoughts**: I did the reading up on cors and higher order functions as well today.
+
+**Links to work**
+[Client-Auth](https://github.com/sfmajors373/Client-Auth)
+
+### Day 41: Saturday, September 2, 2017
+**Today's Progress**: Worked on a tutorial from scotch.io to work on utilizing Auth0 to assist with my auth understanding.
+
+**Thoughts**: Confusing how I can follow a tutorial and still end up with so many errors...
+
+**Links to work**
+[Miniflix Tutorial](https://stackblitz.com/edit/miniflixtutorial)
+
+### Day 42: Sunday September 3, 2017
+**Today's Progress**: Continued on the project from yesterday.  Began a similar project from the Auth0 blog that began earlier in the utilization of the library.
+
+**Thoughts**: I hope to use the secondary Auth0 project to fix some of my understanding errors in the first project.
+
+**Links to work**
+[Auth0 blog tutorial](https://stackblitz.com/edit/auth0-blogtutorial?file=index.js)
+
+### Day 43: Tuesday, September 5, 2017
+**Today's Progress**: New project for LS - Server testing and documentation.  Worked on making the documentation for a new server api.
+
+**Thoughts**: I love testing and documentation.
+
+**Links to work**
+[ServerTesting](https://github.com/sfmajors373/Server-Testing)
