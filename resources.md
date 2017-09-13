@@ -47,6 +47,7 @@
 10. [Google Codelabs](https://codelabs.developers.google.com/)
 11. [Google Mobile Web Specialist Study Guide] (https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide-MobileWebSpecialist.pdf)
 12. [Google Data and Machine Learning] (https://cloud.google.com/training/data-ml)
+13. [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
 
 ### JavaScript
 1.  [JavaScript Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)

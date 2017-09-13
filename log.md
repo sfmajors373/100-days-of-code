@@ -331,3 +331,43 @@
 
 **Links to work**
 [ServerTesting](https://github.com/sfmajors373/Server-Testing)
+
+### Day 44: Wednesday, September 6, 2017
+**Today's Progress**: Worked on more server testing, and making the api for the tests to test.
+
+**Thoughts**: Testing is good.  Found a couple bugs in my api with tests that I made which felt good.
+
+**Links to work**
+[ServerTesting](https://github.com/sfmajors373/Server-Testing)
+
+### Day 45: Thursday, September 7, 2017
+**Today's Progress**: Got an intro to React Native with Expo.
+
+**Thoughts**: This is really pretty cool.  I can work on making apps without having to learn Java first.  
+
+**Links to work**
+[Mobile-I](https://github.com/sfmajors373/Mobile-I)
+
+### Day 46: Friday, September 8, 2017
+**Today's Progress**: Built out the visuals to match the design sketches given to us for the project.
+
+**Thoughts**: I can't wait to try actually making something other than the superficial portion of the app.
+
+**Links to work**
+[Mobile-I](https://github.com/sfmajors373/Mobile-I)
+
+### Day 47: Monday, September 11, 2017
+**Today's Progress**: Began looking at Unity to try to learn to make things for the VR headset.  Needed to begin learning the basics of Unity first though, so the project is just following the roll a ball tutorial, not in vr, so that I can familiarize myself with the basic functionality.
+
+**Thoughts**: I really like VR and can't wait to be actually able to import maps, (maybe arch sites someday), and make games for it.
+
+**Links to work**
+No links at the moment.
+
+### Day 48: Tuesday, September 12, 2017
+**Today's Progress**: Working on Mobile-II project, which is learning more about react-native and expo and how to make the phone part interface with an api, which has already been created.
+
+**Thoughts**: More functionality than the first mobile project, but I want the data that I can pick up from the phone - accelerometer, gps, etc.  
+
+**Links to work**
+[Mobile-II](https://github.com/sfmajors373/Mobile-II)
