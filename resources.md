@@ -48,10 +48,14 @@
 11. [Google Mobile Web Specialist Study Guide] (https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide-MobileWebSpecialist.pdf)
 12. [Google Data and Machine Learning] (https://cloud.google.com/training/data-ml)
 13. [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
-
+14. [Regular Expressions](http://files.hii-tech.com/book/Oreilly.Mastering.Regular.Expressions.3rd.Edition.Aug.2006.pdf)
 ### JavaScript
 1.  [JavaScript Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)
 2.  [JavaScript Promises: Plain and Simple](https://coligo.io/javascript-promises-plain-simple/): Promises and HTTP requests
+### Security
+1.  [OWASP](https://www.owasp.org/index.php/Main_Page)
+2.  [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+3.  [Burp Suite](https://portswigger.net/burp)
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
