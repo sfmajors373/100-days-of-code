@@ -52,6 +52,8 @@
 ### JavaScript
 1.  [JavaScript Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)
 2.  [JavaScript Promises: Plain and Simple](https://coligo.io/javascript-promises-plain-simple/): Promises and HTTP requests
+### C
+1. [Code for win]( http://codeforwin.org/2016/01/bitwise-operator-programming-exercises-and-solutions-in-c.html): Great exercises on bitwise operators (and other things)
 ### Security
 1.  [OWASP](https://www.owasp.org/index.php/Main_Page)
 2.  [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
