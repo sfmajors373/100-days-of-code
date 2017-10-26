@@ -51,6 +51,7 @@
 14. [Regular Expressions](http://files.hii-tech.com/book/Oreilly.Mastering.Regular.Expressions.3rd.Edition.Aug.2006.pdf)
 15. [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/sicp/book/)
 16. [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
+17. [500 Data Structures and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
 17. [Dynamic Programming Practice Problems](https://people.cs.clemson.edu/~bcdean/dp_practice/)
 ### JavaScript
 1.  [JavaScript Promises](https://scotch.io/tutorials/javascript-promises-for-dummies)
