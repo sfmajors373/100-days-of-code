@@ -2,9 +2,11 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Original Log](log.md)
+* [Log - click here to see my progress](log2.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+* [AI Resources](airesources.md)
 
 ## If you've decided to join:
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
