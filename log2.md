@@ -8,3 +8,10 @@
 
 **Link to work:** [MNIST mlp](https://github.com/sfmajors373/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/mnist-mlp/mnist_mlp_exercise.ipynb)
 
+### Day 1: December 16, 2019
+
+**Today's Progress**: Continued work on setting up the vm for solaris.  I keep trying to go quickly and making stupid mistakes and then throwing it out and starting over.  Bad practice all over.  I also checked out the introduction videos and lesson 1.1 and 1.2 in the Intel Edge scholarship Udacity course.
+
+**Thoughts:**  Unfortunately, I was not in a great mental space for productively coding today.  Hopefully, I can get this vm working tonight but if not there is always tomorrow.  I just really want to move on to actually working on the project.
+
+**Link to work:** Nothing to show today
