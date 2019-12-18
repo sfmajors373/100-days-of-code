@@ -15,3 +15,11 @@
 **Thoughts:**  Unfortunately, I was not in a great mental space for productively coding today.  Hopefully, I can get this vm working tonight but if not there is always tomorrow.  I just really want to move on to actually working on the project.
 
 **Link to work:** Nothing to show today
+
+### Day 2: December 17, 2019
+
+**Today's Progress**: Finished the videos and exercises in lesson 3 for the Intel Edge course.  Worked on the mlp mnist notebook for lesson 6.12 for the deep learning course.  It is training now. 
+
+**Thoughts:** Have a migraine.  Am nauseous.  That mlp isn't my best work, but it is working and today that is all that matters.  Maybe I will add dropout or change the loss/optimizer tomorrow.
+
+**Link to work:** [MNIST mlp](https://github.com/sfmajors373/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/mnist-mlp/mnist_mlp_exercise.ipynb)
