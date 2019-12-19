@@ -23,3 +23,11 @@
 **Thoughts:** Have a migraine.  Am nauseous.  That mlp isn't my best work, but it is working and today that is all that matters.  Maybe I will add dropout or change the loss/optimizer tomorrow.
 
 **Link to work:** [MNIST mlp](https://github.com/sfmajors373/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/mnist-mlp/mnist_mlp_exercise.ipynb)
+
+### Day 3: December 18, 2019
+
+**Today's Progress**: Worked through lessons 6.13-6.19 in the deep learning course.  Also made another Ubuntu vm for the GIS project.
+
+**Thoughts:** Good work day.
+
+**Link to work:** Nothing to link today.  Just another prep day for exciting things later.
