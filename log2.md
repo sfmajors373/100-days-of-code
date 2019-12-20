@@ -31,3 +31,11 @@
 **Thoughts:** Good work day.
 
 **Link to work:** Nothing to link today.  Just another prep day for exciting things later.
+
+### Day 4: December 19, 2019
+
+**Today's Progress**: Worked more on the Ubuntu VM for solaris.  Ended up back in my regular machine trying to run the solaris exercise without actually needing solaris.  The tutorial itself seems a bit buggy though.  And tqdm has a really weird progress bar message that looks like an error, but may not be an error.  I still don't know.
+
+**Thoughts:** I'm really frustrated with solaris at the moment.  I really want to try to use it for my project, but it really looks like I am going to have to just buckle down and do this project without it. Recap of solaris problems: if installed, jupyter kernels is unstable and dies frequently.  If attempting to install and gets stuck, it will just show that I do not have a dependency installed and then I uninstall and reinstall and then move onto the next dependency, repeat the process which breaks the install of the first (and we are talking pandas, numpy etc, that do not conflict)
+
+**Link to work:** Nothing to link today.  Just another prep day for exciting things later.
