@@ -39,3 +39,11 @@
 **Thoughts:** I'm really frustrated with solaris at the moment.  I really want to try to use it for my project, but it really looks like I am going to have to just buckle down and do this project without it. Recap of solaris problems: if installed, jupyter kernels is unstable and dies frequently.  If attempting to install and gets stuck, it will just show that I do not have a dependency installed and then I uninstall and reinstall and then move onto the next dependency, repeat the process which breaks the install of the first (and we are talking pandas, numpy etc, that do not conflict)
 
 **Link to work:** Nothing to link today.  Just another prep day for exciting things later.
+
+### Day 5: December 20, 2019
+
+**Today's Progress**: Finished all videos for lesson 6, but still need to finish the Cifar-10 CNN notebook.  Continued fighting with my GIS data.
+
+**Thoughts:** Not many thoughts today.
+
+**Link to work:** Nothing to link today.  Just another prep day for exciting things later.
