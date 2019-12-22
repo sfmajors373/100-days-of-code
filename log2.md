@@ -54,4 +54,12 @@
 
 **Thoughts:** Reasonably productive day so long as all the training and image tiling goes well over night.
 
-**Link to work:** [Style Transfer]()  ### NOTE TO SELF TO PASTE IN THE URL ON OTHER COMPUTER
+**Link to work:** [Style Transfer](https://github.com/sfmajors373/deep-learning-v2-pytorch/tree/master/style-transfer)  [Reference Article](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+
+### Day 7: December 22, 2019
+
+**Today's Progress**: Completed the Character RNN and the Sentiment Analysis projects for the Bertelsmann Challenge while my GIS project worked on crunching satellite data numbers (still in the preprocessing step).  Also to note, the models for the scholarship are not trained yet as I need to reinstall drivers for the GPU so cuda will work on the server.
+
+**Thoughts:** I got a lot done.  I'm pretty happy about it since I will need to have time to devote to the GIS project when I get the preprocessing done and my thesis once I collect more data for it.
+
+**Link to work:** [Character RNN](https://github.com/sfmajors373/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)  [Sentiment Analysis](https://github.com/sfmajors373/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
