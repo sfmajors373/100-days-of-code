@@ -47,3 +47,11 @@
 **Thoughts:** Not many thoughts today.
 
 **Link to work:** Nothing to link today.  Just another prep day for exciting things later.
+
+### Day 6: December 21, 2019
+
+**Today's Progress**: Worked through the Bertelsmann Scholarship course lesson 7 on Style Transfer.  The model is training right now though so I am not yet certain that it worked.  I also continued work on my GIS project though I spent the entire day trouble shooting the wrong spot and creating many many duplicates of the image tiles so I have deleted those and am redoing that step (on a different machine than is training my style transfer model).  I also had a wonderful chat with the people in the Bertelsmann AI in Medical Science scholarship group discussing projects that some of us have already worked on and set up time to discuss potential future projects for us.
+
+**Thoughts:** Reasonably productive day so long as all the training and image tiling goes well over night.
+
+**Link to work:** [Style Transfer]()  ### NOTE TO SELF TO PASTE IN THE URL ON OTHER COMPUTER
