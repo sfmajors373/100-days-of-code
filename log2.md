@@ -63,3 +63,10 @@
 **Thoughts:** I got a lot done.  I'm pretty happy about it since I will need to have time to devote to the GIS project when I get the preprocessing done and my thesis once I collect more data for it.
 
 **Link to work:** [Character RNN](https://github.com/sfmajors373/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks/char-rnn)  [Sentiment Analysis](https://github.com/sfmajors373/deep-learning-v2-pytorch/tree/master/sentiment-rnn)
+### Day 8: December 23, 2019
+
+**Today's Progress**: I didn't get as much done today.  I ran one of the notebooks that I have made in the past couple days and started fixing a couple errors in the others.  I also watched one video from the Intel Edge course
+
+**Thoughts:** The nvidia card that I picked up is way speedier than before!
+
+**Link to work:** No links today
