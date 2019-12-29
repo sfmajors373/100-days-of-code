@@ -70,3 +70,43 @@
 **Thoughts:** The nvidia card that I picked up is way speedier than before!
 
 **Link to work:** No links today
+
+### Day 9: December 24, 2019
+
+**Today's Progress**: Watched videos from Intel Edge course.
+
+**Thoughts:** No thoughts
+
+**Link to work:** No links today
+
+### Day 10: December 26, 2019
+
+**Today's Progress**: Watched a few more Intel Edge videos
+
+**Thoughts:** Skipped yesterday for Christmas
+
+**Link to work:** No links today
+
+### Day 11: December 27, 2019
+
+**Today's Progress**: Completed lesson 3 in Intel Edge course
+
+**Thoughts:** No thoughts
+
+**Link to work:** No links today
+
+### Day 11: December 28, 2019
+
+**Today's Progress**: Completed lesson 4 in Intel Edge course
+
+**Thoughts:** No thoughts
+
+**Link to work:** No links today
+
+### Day 11: December 29, 2019
+
+**Today's Progress**: Finished Intel Edge course
+
+**Thoughts:** No thoughts
+
+**Link to work:** No links today
