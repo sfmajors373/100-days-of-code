@@ -95,7 +95,7 @@
 
 **Link to work:** No links today
 
-### Day 11: December 28, 2019
+### Day 12: December 28, 2019
 
 **Today's Progress**: Completed lesson 4 in Intel Edge course
 
@@ -103,10 +103,42 @@
 
 **Link to work:** No links today
 
-### Day 11: December 29, 2019
+### Day 13: December 29, 2019
 
 **Today's Progress**: Finished Intel Edge course
 
 **Thoughts:** No thoughts
 
 **Link to work:** No links today
+
+### Day 14: December 30, 2019
+
+**Today's Progress**: Began Coursera Self Driving Car Specialization Course 1 and ordered the Linear Algebra book for Dr. Gilbert Strang's course on MITx.
+
+**Thoughts:** No thoughts
+
+**Link to work:** [Lesson 1 Vocab](IntroSelfDrivingCars1.1.pdf)
+
+### Day 15: December 31, 2019
+
+**Today's Progress**: Completed Intro to Self Driving Cars Lesson 1.1
+
+**Thoughts:** No thoughts
+
+**Link to work:** [J3026-Levels of Autonomy](J3016-LevelsOfAutonomy.pdf)
+
+### Day 16: January 1, 2020
+
+**Today's Progress**: Completed Intro to Self Driving Cars Lessons 1.2 and 1.3
+
+**Thoughts:** No thoughts
+
+**Link to work:** [Autonomous Driving In Urban Environments](AutonomousDrivingInUrbanEnvironments.pdf)
+
+### Day 17: January 2, 2020
+
+**Today's Progress**: Read lesson 1.1 in Introduction to Linear Algebra by Gilbert Strang
+
+**Thoughts:** I am really excited to start this math adventure.  I have been putting it off for a while, and I need to do it.  I am also terrified.  Math is hard and it is one of the few things I have thought I may actually not be able to understand even if I really try.  I guess I will find out.
+
+**Link to work:** None
