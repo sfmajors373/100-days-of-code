@@ -142,3 +142,41 @@
 **Thoughts:** I am really excited to start this math adventure.  I have been putting it off for a while, and I need to do it.  I am also terrified.  Math is hard and it is one of the few things I have thought I may actually not be able to understand even if I really try.  I guess I will find out.
 
 **Link to work:** None
+### Day 18: January 3, 2020
+
+**Today's Progress**: Did lesson 2.1 in Intro to Self Driving Cars
+
+**Thoughts:** 
+
+**Link to work:** None
+
+### Day 19: January 4, 2020
+
+**Today's Progress**: Started lesson 2.2 in Intro to Self driving cars and started reading chapter 1.2 in Linear Algebra.
+
+**Thoughts:** 
+
+**Link to work:** None
+
+### Day 20: January 5, 2020
+
+**Today's Progress**: Finished Lesson 2.2 in Intro to Self Driving Cars, continued lesson 1.2 in Linear Algebra, and worked a bit on my GIS project
+
+**Thoughts:** 
+
+**Link to work:** None
+
+### Day 21: January 6, 2020
+
+**Today's Progress**: I took a side trip and read over some things I did for work such as kernel headers and why I need to manually install them in Ubuntu and not in Arch, and some quirky things about VirtualBox that I hadn't needed to deal with before now.
+
+**Thoughts:** Just tired, no thoughts
+
+**Link to work:** None
+### Day 22: January 7, 2020
+
+**Today's Progress**: Created and imported the yaml for the GIS project.  Read a bit of the projects that were suggested in the medical science group so that I could vote for my favorite.  Started looking up tutorials for making a cool computer vision security camera.
+
+**Thoughts:** 
+
+**Link to work:** None
