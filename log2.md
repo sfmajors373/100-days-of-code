@@ -180,3 +180,59 @@
 **Thoughts:** 
 
 **Link to work:** None
+### Day 23: January 8, 2020
+
+**Today's Progress**: More GIS project and solaris debugging
+
+**Thoughts:** 
+
+**Link to work:** None
+### Day 24: January 9, 2020
+
+**Today's Progress**: Lesson 2.2 in Intro to Self Driving Cars
+
+**Thoughts:** 
+
+**Link to work:** None
+### Day 25: January 10, 2020
+
+**Today's Progress**: Lesson 2.3 in Intro to Self Driving Cars
+
+**Thoughts:** 
+
+**Link to work:** None
+### Day 26: January 11, 2020
+
+**Today's Progress**: Figured out that the solaris library is not compatible with Tensorflow 2.0 so I updated the functions to the new functions and am testing it with my project before pushing the patch to them.
+
+**Thoughts:** 
+
+**Link to work:** None
+### Day 27: January 12, 2020
+
+**Today's Progress**: More GIS work.
+
+**Thoughts:** 
+
+**Link to work:** None
+### Day 28: January 13, 2020
+
+**Today's Progress**: Lesson 2.4 in Intro to Self Driving Cars
+
+**Thoughts:** 
+
+**Link to work:** None
+### Day 29: January 14, 2020
+
+**Today's Progress**: Lesson 3.1 in Intro to Self Driving Cars
+
+**Thoughts:** 
+
+**Link to work:** None
+### Day 30: January 15, 2020
+
+**Today's Progress**: Tried to fix the incorrect tensor length issue in my GIS project but then detoured to make a patch to the solaris package for the AUR so that I could have a real install, not quite done with this process yet though.
+
+**Thoughts:** 
+
+**Link to work:** None
