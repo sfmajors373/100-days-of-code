@@ -236,3 +236,17 @@
 **Thoughts:** 
 
 **Link to work:** None
+### Day 31: January 16, 2020
+
+**Today's Progress**: Started lesson 3.2 in Intro to Self Driving Cars (Coursera)
+
+**Thoughts:** 
+
+**Link to work:** None
+### Day 32: January 17, 2020
+
+**Today's Progress**: Finished making the patch for the solaris for the AUR.  Running the original forked sample of the code tutorial for Solaris to see if it works better without so much fiddling now that the package works.
+
+**Thoughts:** 
+
+**Link to work:** [Forked tutorial code](https://github.com/sfmajors373/solaris_cowc)
