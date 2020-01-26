@@ -173,6 +173,7 @@
 **Thoughts:** Just tired, no thoughts
 
 **Link to work:** None
+
 ### Day 22: January 7, 2020
 
 **Today's Progress**: Created and imported the yaml for the GIS project.  Read a bit of the projects that were suggested in the medical science group so that I could vote for my favorite.  Started looking up tutorials for making a cool computer vision security camera.
@@ -180,6 +181,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 23: January 8, 2020
 
 **Today's Progress**: More GIS project and solaris debugging
@@ -187,6 +189,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 24: January 9, 2020
 
 **Today's Progress**: Lesson 2.2 in Intro to Self Driving Cars
@@ -194,6 +197,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 25: January 10, 2020
 
 **Today's Progress**: Lesson 2.3 in Intro to Self Driving Cars
@@ -201,6 +205,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 26: January 11, 2020
 
 **Today's Progress**: Figured out that the solaris library is not compatible with Tensorflow 2.0 so I updated the functions to the new functions and am testing it with my project before pushing the patch to them.
@@ -208,6 +213,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 27: January 12, 2020
 
 **Today's Progress**: More GIS work.
@@ -215,6 +221,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 28: January 13, 2020
 
 **Today's Progress**: Lesson 2.4 in Intro to Self Driving Cars
@@ -222,6 +229,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 29: January 14, 2020
 
 **Today's Progress**: Lesson 3.1 in Intro to Self Driving Cars
@@ -229,6 +237,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 30: January 15, 2020
 
 **Today's Progress**: Tried to fix the incorrect tensor length issue in my GIS project but then detoured to make a patch to the solaris package for the AUR so that I could have a real install, not quite done with this process yet though.
@@ -236,6 +245,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 31: January 16, 2020
 
 **Today's Progress**: Started lesson 3.2 in Intro to Self Driving Cars (Coursera)
@@ -243,6 +253,7 @@
 **Thoughts:** 
 
 **Link to work:** None
+
 ### Day 32: January 17, 2020
 
 **Today's Progress**: Finished making the patch for the solaris for the AUR.  Running the original forked sample of the code tutorial for Solaris to see if it works better without so much fiddling now that the package works.
@@ -250,3 +261,68 @@
 **Thoughts:** 
 
 **Link to work:** [Forked tutorial code](https://github.com/sfmajors373/solaris_cowc)
+
+### Day 33: January 18, 2020
+
+**Today's Progress**: Continued lesson 3.2 in Intro to Self Driving Cars (Coursera)
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 34: January 19, 2020
+
+**Today's Progress**: Started the training process for the solaris tutorial
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 35: January 20, 2020
+
+**Today's Progress**: GIS project is still training. Watched video 1 in MITx Linear Algebra course
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 36: January 21, 2020
+
+**Today's Progress**: Reviewed some Python basics while the GIS project continues to train.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 37: January 22, 2020
+
+**Today's Progress**: Watched part of video 2 in MITx Linear Algebra and ran the inference step for the GIS project.
+
+**Thoughts:** Finally finished training but needed to go to puppy class so no time to play with the results
+
+**Link to work:** 
+
+### Day 38: January 23, 2020
+
+**Today's Progress**: Tried to run the numbers for precision, F1 score, etc for the solaris tutorial but it just coming up with 'nan', not sure exactly what the problem is quite yet.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 39: January 24, 2020
+
+**Today's Progress**: Worked on a blog post for Open Mined.
+
+**Thoughts:** Not technically code, but a skill that is useful and it is to promote a library that I like so I will count it here.
+
+**Link to work:** Not published yet
+
+### Day 40: January 25, 2020
+
+**Today's Progress**: Looked into why the precision calculations are not working on the solaris tutorial - not much progress on that yet.  Tried to run through the PySuft tutorials again, but syft is not working on my server.  Finished watching lesson 2 of MIT linear algebra course. Started the 30 days of code in HackerRank because I am terrible at passing any of their code challenges when they are part of interviews so I should probably practice - using platforms like this is quite popular even though I am not a fan.
+
+**Thoughts:** Not much progress today, just problems and I need more sleep before I can fix them.
+
+**Link to work:** 
